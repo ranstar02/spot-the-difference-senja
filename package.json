@@ -1,0 +1,1 @@
+{"description":"Senja di Taman Kota — a spot-the-difference game in a city park at dusk. Built for make.fun's best spot the difference game bounty.","license":"MIT","name":"spot-the-difference-senja","scripts":{"build":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","start":"node serve.ts"},"type":"module","version":"1.0.0"}
